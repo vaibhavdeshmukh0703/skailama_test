@@ -1,0 +1,71 @@
+.header_container{
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    justify-content: space-between;
+   
+}
+.logo{
+    font-size: 37.74px;
+    color: #7E22CE;
+    font-weight: 800;
+}
+.icon_container{
+    width: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right:2rem
+
+}
+.section_container{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    Width : 1495px;
+    Height:773.92px;
+    flex-direction: column;
+    margin: 0px 100px;
+    /* position: relative;
+    top: 167px;
+    left:212px; */
+}
+.section_heading{
+    font-size: 73.41px;
+    color: #7E22CE;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+}
+.image_container{
+    Width:539.03px;
+    Height:361.67px;
+    Top:278px;
+    Left:690px
+}
+.section_para{
+    font-size: 35px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.button_container{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    width: 569px;
+    height: 109px;
+    justify-content: center;
+    gap: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button_heading{
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 46px;
+    color: white;
+}
